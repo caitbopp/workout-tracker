@@ -19,7 +19,7 @@ node server.js
 ## Usage
 Express, Mongoose, and Morgan are all required to run this application. To begin, run node server.js.
 
-A linked to my deployed page can be found here: [Heroku](https://hidden-dawn-08659.herokuapp.com/).
+A linked to my deployed page can be found here: [Heroku](https://arctic-mountie-73451.herokuapp.com/).
 
 <img src="./public/assets/project_screenshot.png">
 
